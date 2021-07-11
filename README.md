@@ -7,4 +7,4 @@ Make directory with ShiftFilenames.py and makepictfiles.sh
 Run ./makepictfiles.sh to create files PICT0013.JPG to PICT0025.JPG
 Run python3 ShiftFilenames.py
 
-Bugs: The output is missing one file. Why?
+Bugs: The output is missing one file. i.e. You get PICT0001.JPG to PICT0012.JPG instead of PICT0001 to PICT0013.JPG. Why?
